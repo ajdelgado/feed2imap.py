@@ -15,6 +15,7 @@ import imaplib
 import email
 from email import message
 import urllib
+from defusedxml.ElementTree import fromstring
 
 import yaml
 import requests
@@ -22,7 +23,6 @@ import click
 import click_config_file
 import logging
 from logging.handlers import SysLogHandler
-from defusedxml.ElementTree import fromstring
 
 class feed2imap():
 

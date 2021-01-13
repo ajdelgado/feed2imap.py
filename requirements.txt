@@ -1,0 +1,4 @@
+click
+click_config_file
+pyyaml
+requests
