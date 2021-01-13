@@ -1,2 +1,2 @@
 import setuptools
-setuptools.setup()
+setuptools.setup(scripts=['feed2imap/feed2imap.py'])
