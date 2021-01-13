@@ -7,6 +7,6 @@ setuptools.setup(
     author_email="antonio@susurrando.com",
     url="https://susurrando.com",
     description="Get RSS feeds into an IMAP account",
-    license="GPLv2",
+    license="GPLv3",
     keywords=["IMAP", "IMAPS", "RSS", "feeds", "RDF", "mail"]
     )
