@@ -1,5 +1,9 @@
 # feed2imap
 
+Based on the configuration files of [feed2imap](https://github.com/feed2imap/feed2imap),
+I wanted to get more control since the cache file kept ruining with the ruby implementation.
+This is my first approach based just in the configuration file.
+
 ## Requirements
 
 - Python 3.X (3.8 tested)
