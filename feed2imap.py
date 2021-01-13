@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+# -*- encoding: utf-8 -*-
+#
+# This script is licensed under GNU GPL version 2.0 or above
+# (c) Antonio J. Delgado 2021
+# Python script to get RSS feeds into your IMAP mail
+
 import sys
 import os
 import re
